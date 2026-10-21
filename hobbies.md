@@ -4,5 +4,6 @@
 * leer
 * bailar
 * danzar
+* leer comics
 
 
